@@ -1,0 +1,74 @@
+[
+  {
+    "id": "thoughtful-work",
+    "title": "The Art of Doing Thoughtful Work",
+    "excerpt": "A practical reminder that meaningful progress comes from attention, intention, and a little patience.",
+    "content": "Good work rarely happens by accident. It begins when we give a problem our full attention, make room to think, and choose a clear next step. Instead of trying to do everything at once, focus on the part that matters most.\\n\\nBuild a rhythm that gives you time to explore, make mistakes, and improve. Small, consistent efforts often create stronger results than rushed bursts of activity.\\n\\nThoughtful work is not about being perfect. It is about caring enough to make the next version better.",
+    "category": "Productivity",
+    "author": "Aarav Mehta",
+    "date": "November 18, 2026",
+    "readTime": "4 min read",
+    "color": "peach",
+    "featured": true
+  },
+  {
+    "id": "designing-for-people",
+    "title": "Designing for People, Not Screens",
+    "excerpt": "Good interfaces feel clear because they start with the needs and expectations of real people.",
+    "content": "A useful interface does more than look polished. It helps someone understand where they are, what they can do, and what will happen next. That clarity comes from listening to users and observing the problems they are trying to solve.\\n\\nStart with simple wireframes. Give every screen a purpose, keep navigation predictable, and use visual hierarchy to guide attention. Colour and decoration should support the experience rather than compete with it.\\n\\nWhen design decisions are grounded in real needs, the result feels natural and easy to use.",
+    "category": "Design",
+    "author": "Mira Shah",
+    "date": "November 14, 2026",
+    "readTime": "5 min read",
+    "color": "lavender",
+    "featured": true
+  },
+  {
+    "id": "learning-in-public",
+    "title": "Learning in Public: Start Before You're Ready",
+    "excerpt": "Sharing your learning journey can turn small discoveries into lasting knowledge.",
+    "content": "You do not need to be an expert to share what you are learning. Explaining a new idea in your own words helps you notice what you understand and what still needs practice.\\n\\nKeep notes, write short reflections, and share useful resources. Your first attempt may be imperfect, but it gives you something concrete to improve. Over time, those small records become a portfolio of your growth.\\n\\nBe curious, stay generous, and remember that progress is easier to see when you document it.",
+    "category": "Learning",
+    "author": "Rohan Das",
+    "date": "November 10, 2026",
+    "readTime": "3 min read",
+    "color": "mint",
+    "featured": false
+  },
+  {
+    "id": "slow-mornings",
+    "title": "Make Space for a Slower Morning",
+    "excerpt": "A gentle morning routine can help you begin the day with more focus and less noise.",
+    "content": "A calmer morning does not require an elaborate routine. It can begin with a glass of water, a few quiet minutes, and a short list of priorities. The goal is to create a little space before the day's demands arrive.\\n\\nTry keeping your phone away for the first part of the morning. Choose one task that deserves your attention and give yourself permission to start slowly.\\n\\nA good routine is one you can repeat. Keep it simple enough to fit your real life.",
+    "category": "Lifestyle",
+    "author": "Ananya Roy",
+    "date": "November 06, 2026",
+    "readTime": "4 min read",
+    "color": "butter",
+    "featured": false
+  },
+  {
+    "id": "small-steps-code",
+    "title": "Small Steps to Better Code",
+    "excerpt": "Readable code is built through clear names, focused functions, and steady refinement.",
+    "content": "Writing maintainable code is often a series of small decisions. Choose names that explain intent, keep functions focused, and avoid adding complexity before it is needed.\\n\\nWhen something works, take a moment to make it easier to understand. Remove duplication, handle edge cases, and leave comments only where they add useful context.\\n\\nYou do not need a perfect first draft. Aim for code that is correct, clear, and easier for the next person to change.",
+    "category": "Technology",
+    "author": "Dev Malhotra",
+    "date": "November 02, 2026",
+    "readTime": "6 min read",
+    "color": "blue",
+    "featured": false
+  },
+  {
+    "id": "creative-reset",
+    "title": "A Creative Reset for Busy Weeks",
+    "excerpt": "Simple ways to make room for fresh ideas when your calendar feels full.",
+    "content": "Creative energy needs room to breathe. When every hour is scheduled, even a small pause can help you return to a problem with a different perspective.\\n\\nTake a short walk, collect references, or write down questions without trying to answer them immediately. Change your environment if you can. The point is not to avoid work, but to create space for new connections.\\n\\nA reset can be small. A few intentional minutes may be enough to begin again.",
+    "category": "Lifestyle",
+    "author": "Mira Shah",
+    "date": "October 28, 2026",
+    "readTime": "3 min read",
+    "color": "pink",
+    "featured": false
+  }
+]
